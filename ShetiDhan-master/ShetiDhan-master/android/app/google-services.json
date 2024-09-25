@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932017506304",
+    "project_id": "shetidhan-84856",
+    "storage_bucket": "shetidhan-84856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932017506304:android:e8de0a1fee87f58b4fb0e5",
+        "android_client_info": {
+          "package_name": "com.example.demo_test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACHNmybndWgP85uX2QVpHBPNi23zBoQvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
